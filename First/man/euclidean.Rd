@@ -7,9 +7,9 @@
 euclidean(a, b)
 }
 \arguments{
-\item{shall}{be a numeric value and a scalar}
+\item{a}{shall be a numeric value and a scalar}
 
-\item{shall}{be a numeric value and a scalar}
+\item{b}{shall be a numeric value and a scalar}
 }
 \description{
 This is a ahappy moment :D

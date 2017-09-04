@@ -1,8 +1,8 @@
 #'@title Takes the euclidian algorithm
 #'
 #'@description This is a ahappy moment :D
-#'@param shall be a numeric value and a scalar
-#'@param shall be a numeric value and a scalar
+#'@param a shall be a numeric value and a scalar
+#'@param b shall be a numeric value and a scalar
 #'@export
 #'@return NULL
 #'@examples \dontrun{
