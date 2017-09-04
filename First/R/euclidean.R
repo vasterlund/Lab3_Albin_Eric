@@ -1,5 +1,4 @@
-euclidean <-
-function(a,b){
+euclidean <-function(a,b){
   
   stopifnot(is.numeric(a) | length(a) > 1 & is.numeric(b) | length(b) > 1)
   
