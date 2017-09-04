@@ -1,3 +1,17 @@
+#'@title Takes the euclidian algorithm
+#'
+#'@description This is a ahappy moment :D
+#'@param shall be a numeric value and a scalar
+#'@param shall be a numeric value and a scalar
+#'@export
+#'@return NULL
+#'@examples \dontrun{
+#' # Dont run this
+#'}
+#'power_x(x=10)
+
+
+
 euclidean <-function(a,b){
   
   stopifnot(is.numeric(a) | length(a) > 1 & is.numeric(b) | length(b) > 1)
