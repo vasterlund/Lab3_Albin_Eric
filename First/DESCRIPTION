@@ -7,3 +7,4 @@ Author: Eric Herwin and Albin Västerlund
 Maintainer: Eric Herwin <Erihe068@student.liu.se>
 Description: Our first epic package
 License: MIT
+RoxygenNote: 6.0.1
