@@ -26,5 +26,6 @@ dijkstra(wiki_graph,1)
 dijkstra(wiki_graph,3)
 }
 \references{
-You can check how the algorithm work at it's page at wikepedia.
+You can check how the algorithm work on it's page at 
+ \href{https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors}{wikepedia.}
 }
