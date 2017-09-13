@@ -11,12 +11,17 @@ euclidean(a, b)
 
 \item{b}{shall be a numeric value and a scalar}
 }
+\value{
+Returns a numeric scalar that is the greatest common divisor of a and b.
+}
 \description{
-This is a ahappy moment :D
+An algorithm that computes the greatest common divisor (GDC) of two numeric numbers.
 }
 \examples{
-\dontrun{
-# Dont run this
+euclidean(123612, 13892347912)
+euclidean(100, 1000)
 }
-power_x(x=10)
+\references{
+The info about the algorithm can be found at this link  
+\href{https://en.wikipedia.org/wiki/Euclidean_algorithm}{wikepedia.}
 }
