@@ -1,3 +1,3 @@
 # Lab3_Albin_Eric
 
-https://travis-ci.org/vasterlund/Lab3_Albin_Eric.svg?branch=master
+[![Build Status](https://travis-ci.org/vasterlund/Lab3_Albin_Eric.svg?branch=master)](https://travis-ci.org/vasterlund/Lab3_Albin_Eric)
