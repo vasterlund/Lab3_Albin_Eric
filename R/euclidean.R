@@ -15,7 +15,7 @@ euclidean <-function(a,b){
   
   stopifnot(is.numeric(a) | length(a) > 1 & is.numeric(b) | length(b) > 1)
   
-  vect <- c(a,b)
+  vect <- abs(c(a,b))
   
   a <- max(vect)
   b <- min(vect)
